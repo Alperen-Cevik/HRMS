@@ -1,0 +1,17 @@
+
+*.vsidx
+*.lock
+HRMS/.vs/HRMS/v17/.suo
+*.db
+*.opendb
+*.db-wal
+*.db-shm
+*.ipch
+*.tlog
+*.obj
+*.log
+*.ilk
+*.exe
+*.idb
+*.recipe
+*.pdb
