@@ -1,0 +1,93 @@
+user:
+username, password, email, is_admin. permissions
+
+admins can change permissions of other users.
+
+position:
+title, level, job, description, qualifications, skills, talents, requirements
+
+add, edit
+
+sections:
+candidate personal information section.
+interview information section.
+Vacation Management
+
+candidate:
+x Name
+x Last name
+x TC Identification number
+x Job
+x University
+x University Department
+x Graduation Year
+x Class
+x Date of birth
+x Address
+x Telephone
+x Email
+
+filtering and searching.
+
+
+interviews:
+
+Recruitment stage (1st interview, technical test, project manager interview,
+offer etc.)
+x All the personal information mentioned in recruitment panel
+x Dates of interviews,
+x Interview participants,
+x Interview results,
+x An area where interview forms can be stored and shared
+
+filtering and searching.
+
+employee:
+x Name
+x Last name
+x TC Identification number
+x Job
+x University
+x University Department
+x Graduation Year
+x Class
+x Date of birth
+x Address
+x Telephone
+x Email
+x Department
+x Year of employment
+x Year in the company
+
+filtering and searching.
+
+onboarding:
+?
+
+performance management:
+export in excel or cvs format.
+which user will evaluate which user.
+Direct Reports
+x Peers
+x Manager
+x Customers & Partners
+
+Vacation Management:
+it displays the permission requests, approves or rejects them. It should also enable to
+manage and sort data as birthday leave, holiday, sick leave etc.
+
+employee satisfaction:
+creating a survey, 1-5 points, questions answered in text.
+When the survey results are completed,
+average scores and departmental information should be obtained from users and
+benchmarks should be seen on a departmental basis. Quarterly or annual
+comparisons should be made between certain periods
+export in excel or cvs format.
+
+training & development:
+x What level of skills and talents they have
+x Trainings received
+x Training dates
+x Level of knowledge before education
+x Post-training knowledge level
+x Training and trainer evaluation results
